@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Live Article Writer",
+  "description": "An AI agent that listens to your ideas via real-time voice conversation and drafts a comprehensive article for you.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
